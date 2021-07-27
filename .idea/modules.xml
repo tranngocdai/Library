@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTap21.7.iml" filepath="$PROJECT_DIR$/BaiTap21.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiThi4/BaiThi4.iml" filepath="$PROJECT_DIR$/BaiThi4/BaiThi4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CMV/CMV.iml" filepath="$PROJECT_DIR$/CMV/CMV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeThi1/DeThi1.iml" filepath="$PROJECT_DIR$/DeThi1/DeThi1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DeThi4/DeThi4.iml" filepath="$PROJECT_DIR$/DeThi4/DeThi4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debug/Debug.iml" filepath="$PROJECT_DIR$/Debug/Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Youtube/Ex.iml" filepath="$PROJECT_DIR$/Youtube/Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Luyentap/Luyentap.iml" filepath="$PROJECT_DIR$/Luyentap/Luyentap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/New/New.iml" filepath="$PROJECT_DIR$/New/New.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThucHanh1/ThucHanh1.iml" filepath="$PROJECT_DIR$/ThucHanh1/ThucHanh1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThucHanh3/ThucHanh3.iml" filepath="$PROJECT_DIR$/ThucHanh3/ThucHanh3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThucHanh4/ThucHanh4.iml" filepath="$PROJECT_DIR$/ThucHanh4/ThucHanh4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Youtube/Youtube.iml" filepath="$PROJECT_DIR$/Youtube/Youtube.iml" />
+    </modules>
+  </component>
+</project>
